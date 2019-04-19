@@ -4,5 +4,7 @@ ss=len(s)
 ss1=len(s1)
 if(ss<ss1):
   print(s1)
+elif(ss==ss1):
+  print(s,s1)
 else:
   print(s)
