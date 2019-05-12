@@ -1,5 +1,5 @@
 n=int(input("enter a number"))
-while(n>0):
+while(n<=10):
   if(n%2!=0):
     print(n)
     break;
