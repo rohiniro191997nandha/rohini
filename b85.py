@@ -11,3 +11,4 @@ for j in even:
   print("even",s[j])
 for r in odd:
   print("odd",s[r])
+print("hai")
